@@ -5,7 +5,7 @@
 
 Work flow of Version control:
 
-      Working Directory -> Staging Area -> Local Repository (git commit) -> Remote Repository (on GitHub)
+      Working Directory -> Staging Area (git add) -> Local Repository (git commit) -> Remote Repository on GitHub (git push)
 
 
 
